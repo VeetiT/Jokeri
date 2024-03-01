@@ -1,0 +1,16 @@
+body {
+    background-color: grey;
+}
+a{
+    border: solid 1px black;
+    border-radius: 25px;
+    background-color: wheat;
+    padding: 4px;
+}
+p,h3 {
+    color: white;
+}
+
+table{
+    border-spacing: 10px;
+}
